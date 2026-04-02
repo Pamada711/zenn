@@ -68,6 +68,8 @@ $@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,"^`'.
 
 ペンギンになった。
 
+![改善後：70文字セット](/images/articles/ascii-art-vscode-extension/result_70chars.png)
+
 ## 技術スタック
 
 | 項目 | 内容 |
